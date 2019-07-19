@@ -9,10 +9,10 @@
             "email": "giansalex@gmail.com"
         }
     ],
-    "homepage": "https://github.com/giansalex/greenter-data",
+    "homepage": "https://github.com/osktgui/greenter-data",
     "type": "library",
     "require": {
-        "greenter/core": "^2.1"
+        "greenterose/core": "dev-master"
     },
 	"autoload": {
         "psr-4": {
